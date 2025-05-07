@@ -5,8 +5,8 @@ padding: 0 !important;
 
 /* NAVBAR */
 .navbar{
-background-color: #333 !important;
-border-bottom: 1px solid black !important;
+background-color: #777 !important;
+border-bottom: 4px solid black !important;
 }
 
 .navbar-nav{
@@ -50,7 +50,7 @@ margin-top: 1em !important;
 }
 
 .input-group-btn{
-border: 1px solid rgba(0, 0, 0, 0.206) !important;
+border: 2px solid rgba(0, 0, 0, 0.206) !important;
 border-radius: 5px !important;
 }
 
